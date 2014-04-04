@@ -1,5 +1,3 @@
-Pourquoi ce blog ? Pour diffuser les quelques connaissances que j'ai pu acquerir
-au cours des belles rencontres que j'ai pu réaliser. Je suis convaincu que l'avenir
-des professions relative au domaine du développement du logiciel passent par
-une approche agile-software craftsmanship. Hors de cette voie nous ne ferons que
-répéter les erreurs du passé.
+Je suis convaincu par l'agilité pour le moins dans le domaine de l'IT cependant la transition à l'agilité n'est pas chose aisée et surtout une transition à l'agilité ne doit pas se limiter à la mise en oeuvre d'un ensemble de pratiques. Il convient à toute organisation et personne d'adopter les valeurs et principes définis par le manifeste agile. Dans le domaine du développement logiciel il faudra veiller à ce que l'équipe ou les équipes vise l'excellence technique et pour cela il convient de mettre en oeuvre
+les principes du manifeste Software Craftsmanship. De mon point de vue cela forme un tout : agilité et Software Craftsmanship. L'un et l'autre sont indissociable pour le domaine IT et plus particulièrement pour le développement de logiciels. D'où l'intitulé de ce blog Agilité - Software Craftsmanship (lire Agilité trait d'union Software Craftsmanship) et non pas Agilité & Software Craftsmanship. Il n'y a entre ces deux domaines aucune opposition mais bien au contraire une parfaite cohérence d'ensemble.
+Sur le long chemin du Software Craftsmanship, il me reste un important parcours à réaliser mais qu'importe le voyage sera d'autant plus intéressant car on se lasse pas d'apprendre. Je vous invite donc à explorer ces chemins et pistes de ce vaste territoire...
