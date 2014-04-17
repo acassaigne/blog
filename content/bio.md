@@ -6,5 +6,4 @@ Actuellement j'explore et m'intéresse particulièrement à l'approche ATDD, BDD
 
 Concernant le domaine du développement logiciel (mon premier métier), j'aspire à devenir apprenti Software Craftmanship et je découvre donc avec grand intérêt la pratique du TDD.
 
-Vous pouvez notamment me croiser aux divers événements de l'association Agile Toulouse ainsi qu'au sein du collectif Software Craftsmanship Toulouse (initié par Antoine Vernois). 
-
+Vous pouvez notamment me croiser aux divers événements de l'association Agile Toulouse ainsi qu'au sein du collectif Software Craftsmanship Toulouse (initié par Antoine Vernois).
