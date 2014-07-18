@@ -1,4 +1,6 @@
+*.pyc
+*.pid
 output
-*.sh
+blog.sublime-workspace
+develop_server.sh
 Makefile
-*.sublime-*
