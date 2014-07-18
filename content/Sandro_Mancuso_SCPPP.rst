@@ -2,9 +2,9 @@
 Software Craftsmanship Professionalism Pragmatism Pride
 *******************************************************
 
-:date: 2013-12-01
+:date: 2014-07-17
 :tags: livre, agile, software craftsmanship
-:category: Livres
+:category: Lectures
 :author: Anthony Cassaigne
 
 .. image:: images/sandro_book.png
@@ -17,7 +17,7 @@ Vision à laquelle je m'associe pleinement. Si vous cherchez un livre technique
 relatif aux : TDD, refactoring... passez votre chemin (mais pas trop vite tout
 de même je vous encourage à lire ne serait-ce que les deux premiers chapitres).
 Ce livre s'adresse à tous et pas seulement aux développeurs. Managers, décideurs,
-chefs de projets, chefs d'équipe, coach... lisez attentivement ce livre !
+chefs de projets, chefs d'équipe, coach... lisez ce livre !
 
 Sandro commence par nous compter les débuts de sa carrière, notamment en
 relatant le premier moment fort de sa vie de développeur où le responsable de
@@ -64,8 +64,9 @@ demeurons trop souvent incapable de gérer durablement le changement au coeur du
 développement d'un logiciel. Car fréquement les entreprise oublient le 9ème
 principe du manifeste agile : "Une attention continue à l'excellence technique
 et à une bonne conception renforce l’Agilité". Sandro nous montre qu'atteindre
-cet objectif ce n'est pas si difficile. Il s'agit de surtout de développer cet
-culture de la qualité au sein des équipes. Sandro nous présente bien des pistes
-de reflexions mais pas seulement, il apporte également de nombreuses réponses
-au travers des différents chapitres toujours avec beaucoup d'humilité et sans
-position dogmatique. Bref encore une fois je vous invite à le lire.
+cet objectif ce n'est pas si difficile. Il s'agit pour l'essentiel de
+développer cette culture de la qualité au sein des équipes. Sandro nous présente
+bien des pistes de reflexions mais pas seulement, il apporte également de
+nombreuses réponses au travers des différents chapitres toujours avec beaucoup
+d'humilité et sans position dogmatique. Bref encore une fois je vous invite à
+le lire.
