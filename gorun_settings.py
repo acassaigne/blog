@@ -1,3 +1,3 @@
 DIRECTORIES = (
-('./content', 'make html;date'),
+('./content', 'make html;rsync -av content/images output/category/;date'),
 )
