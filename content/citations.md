@@ -4,6 +4,10 @@ Tags: citation, agile, software craftsmanship
 Category: Citations
 Author: Anthony Cassaigne
 
+>Scrum is like your mother-in-law, it point out ALL your faults.  
+― Ken Schwaber
+---
+
 
 >Organizing a self-organizing system is not only an oxymoron, it’s stupid.  
 ― [Harrison Owen](http://tyhallock.blogspot.fr/2014/02/harrison-owen-interview-inviting-flow.html)
