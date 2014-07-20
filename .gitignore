@@ -6,4 +6,4 @@ develop_server.sh
 Makefile
 publishconf.py
 pelicanconf.py
-fabfile.py 
+fabfile.py
