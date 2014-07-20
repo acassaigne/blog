@@ -1,29 +1,36 @@
 Title: Agilité en images
 Date: 2014-07-15
 Tags: image, agile, software craftsmanship
-Category: Agilité en images
+Category: Images & Agilité
 Author: Anthony Cassaigne
 
-![learn](images/learn.png)
+![learn](images/learn.png) 
 
 ---
-The mythical man month !!!
+Anti-pattern  
+Lisez [The mythical man month](http://www.goodreads.com/book/show/13629.The_Mythical_Man_Month) !!!
 ![the_mythical_man_month](images/the_mythical_man_month.png)
 
 ---
-D'où l'importance des rétrospectives.
+D'où l'importance des rétrospectives.  
+Veuillez mettre en oeuvre ce principe du manifest Agile :
+>À intervalles réguliers, l'équipe réfléchit aux moyens
+de devenir plus efficace, puis règle et modifie son
+comportement en conséquence.
+
 ![too_busy](images/too_busy_small.png)
-
----
-
-![plan](images/plan.png)
 
 ---
 Yep, amélioration continue... vive les rétrospectives !
 ![most_dangerous](images/most_dangerous_small.jpg)
 
 ---
-Motivation & on ne se lasse pas d'apprendre.
+
+![plan](images/plan.png)
+
+
+---
+Motivation et on ne se lasse pas d'apprendre.
 ![new_things](images/new_things.jpg)
 
 ---
@@ -48,13 +55,27 @@ Nous avons besoin de plusieurs chemins pour atteindre l'objectif !
 ![roadmap](images/roadmap_small.png)
 
 ---
-haaaaa le manque de communication... bel exemple d'anti-pattern
+haaaaa le manque de communication... bel exemple d'anti-pattern :
+
 ![manque_de_communication](images/manque_de_communication_small.jpg)
 
+Bref, mettez en oeuvre ces principes du manifest Agile:
+>Les utilisateurs ou leurs représentants et les 
+développeurs doivent travailler ensemble quotidiennement
+tout au long du projet.
+
+et
+
+>La méthode la plus simple et la plus efficace pour 
+transmettre de l’information à l'équipe de développement
+et à l’intérieur de celle-ci est le dialogue en face à face.
+
 ---
-Bref ne pas oublier que : 
+Attention même lors d'une conversation en face à face, ne pas oublier :
 ![comprehension](images/comprehension.jpg)
 
+Tableau blanc, dessin, schéma, vidéo, facilitation graphique... toute technique pour augmenter la bande passante et pour construire une compréhension commune est à favoriser.
+Poursuivre par [Tom Wujec](http://www.ted.com/talks/tom_wujec_on_3_ways_the_brain_creates_meaning?language=en)
 
 ---
 
@@ -75,6 +96,10 @@ Bref ne pas oublier que :
 
 ![keep_calm](images/keep_calm.jpg)
 
+Comme le dit [Mario Andretti](http://en.wikipedia.org/wiki/Mario_Andretti)
+>If everything’s under control,  
+you’re going too slow!
+
 
 ---
 
@@ -85,16 +110,20 @@ Bref ne pas oublier que :
 ![Boss have answerd](images/boss_have_answerd_small.jpg)
 
 ---
-About technical debt
+Que dire de la dette technique :
 ![Technical debt](images/technical_debt_small.jpg)
-
---- 
-
-![Three Simple Truths](images/three_simple_truths.png)
 
 ---
 About refactoring...
 ![Why refactoring](images/why_refactoring_small.jpg)
+
+--- 
+
+Ne pas oublier ! 
+
+![Three Simple Truths](images/three_simple_truths.png)
+
+Extrait du livre [The Agile Samurai](http://pragprog.com/book/jtrap/the-agile-samurai)
 
 ---
 >About Scrum...

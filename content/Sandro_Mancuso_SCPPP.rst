@@ -4,7 +4,7 @@ Software Craftsmanship Professionalism Pragmatism Pride
 
 :date: 2014-07-17
 :tags: livre, agile, software craftsmanship
-:category: Lectures
+:category: Articles
 :author: Anthony Cassaigne
 
 .. image:: images/sandro_book.png
@@ -32,13 +32,11 @@ rencontrer un bien meilleur développeur que lui ayant à coeur de produire des
 logiciels de grande qualité et prenant le temps de faire progresser ses
 collègues. Pendant les deux années qu'il passa au sein de cette équipe, si
 techniquement il apprit beaucoup, ce qui le marqua le plus ce fut l'attitude
-qu'avaient les membres de l'équipe les uns envers les autres. Ce qu'il a appris
-dans ces moments là ne fit pas uniquement de lui un meilleur professionnel mais
-également un homme meilleur. Il venait de découvrir une autre approche du
-développement et c'est le sujet central de cet ouvrage. Sandro nous montre que
-le modèle (mainstream ?) considérant un développeur comme un travailleur (pour
-lequel j'ai le plus grand respect) d'une chaine de production, ce modèle est
-inadapté et inopérant au monde du logiciel.
+qu'avaient les membres de l'équipe les uns envers les autres. Il venait de
+découvrir une autre approche du développement et c'est le sujet central de cet
+ouvrage. Sandro nous montre que le modèle (mainstream ?) considérant un
+développeur comme un travailleur (pour lequel j'ai le plus grand respect) d'une
+chaine de production, ce modèle est inadapté et inopérant au monde du logiciel.
 
 Dans la première partie il démontre qu'aujourd'hui un développeur doit être
 multi-compétents car il doit pouvoir : parler aux clients, automatiser les
