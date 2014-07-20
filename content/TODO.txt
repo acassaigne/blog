@@ -1,0 +1,6 @@
+TODO
+
+- offre de prestation : consultant accompagnement PO, consultant Scrum Master
+- article rétrospective 
+- une User Story c'est avant tout une histoire ! 
+
