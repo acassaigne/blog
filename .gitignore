@@ -7,3 +7,4 @@ Makefile
 publishconf.py
 pelicanconf.py
 fabfile.py
+cache
