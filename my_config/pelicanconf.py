@@ -6,6 +6,8 @@ AUTHOR = u'Anthony Cassaigne'
 SITENAME = u'Agilit\xe9 - Software Craftsmanship'
 SITEURL = ''
 
+PATH = 'content'
+
 TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'fr'
