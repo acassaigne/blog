@@ -4,3 +4,6 @@ output
 blog.sublime-workspace
 develop_server.sh
 Makefile
+publishconf.py
+pelicanconf.py
+fabfile.py 
