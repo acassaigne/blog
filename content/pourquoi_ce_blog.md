@@ -1,5 +1,5 @@
 Title: Pourquoi ce blog ?
-Category: Mon Blog
+Category: Qui Suis-je...
 Date: 2014-07-01
 Modified: 2014-07-13
 

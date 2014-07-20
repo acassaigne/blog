@@ -1,7 +1,7 @@
 Title: Qui suis-je...
 Category: Qui Suis-je...
-Date: 2014-07-01
-Modified: 2014-07-13
+Date: 2014-07-20
+Modified: 2014-07-20
 
 Pendant les dix années en tant que développeur et consultant dans le domaine des SGBDR Oracle (développeur, DBA, responsable technique...) je n'étais pas satisfait par la gestion de projet telle que je la vivais. C'est à dire essentiellement au travers de cycles en V ou de type waterfall.  
 
@@ -18,4 +18,4 @@ Actuellement je m'intéresse plus particulièrement à l'ensemble des techniques
 Vous pouvez également me croiser aux divers événements de [l'association Agile Toulouse](http://agiletoulouse.fr/) ainsi qu'au sein du collectif [Software Craftsmanship Toulouse](http://www.meetup.com/Software-Craftsmanship-Toulouse/) (initié par [Antoine Vernois](https://blog.crafting-labs.fr/)).  
 Je fais également parti du comité d'organisation de [l'étape Toulousaine de l'Agile Tour](http://tour.agiletoulouse.fr/).
 
-Poursuivre la lecture avec [Pourquoi ce blog...](http://acassaigne.info/category/mon-blog.html)
+Poursuivre la lecture avec [Pourquoi ce blog...](http://acassaigne.info/pourquoi-ce-blog.html)

@@ -13,7 +13,7 @@ Lisez [The mythical man month](http://www.goodreads.com/book/show/13629.The_Myth
 
 ---
 D'où l'importance des rétrospectives.  
-Veuillez mettre en oeuvre ce principe du manifest Agile :
+Veuillez mettre en oeuvre ce principe du manifeste Agile :
 >À intervalles réguliers, l'équipe réfléchit aux moyens
 de devenir plus efficace, puis règle et modifie son
 comportement en conséquence.
@@ -59,7 +59,7 @@ haaaaa le manque de communication... bel exemple d'anti-pattern :
 
 ![manque_de_communication](images/manque_de_communication_small.jpg)
 
-Bref, mettez en oeuvre ces principes du manifest Agile:
+Bref, mettez en oeuvre ces principes du manifeste Agile:
 >Les utilisateurs ou leurs représentants et les 
 développeurs doivent travailler ensemble quotidiennement
 tout au long du projet.
