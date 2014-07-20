@@ -18,8 +18,22 @@ TRANSLATION_FEED_ATOM = None
 # Blogroll
 LINKS =  (('Are You Agile', 'http://www.areyouagile.com/'),
           ('Agilitateur ', 'http://agilitateur.azeau.com/'),
+          ('Claude Aubry ', 'http://www.aubryconseil.com/'),
+          ('Thierry Cros', 'http://thierrycros.net/'),
           ('Crafting Labs', 'https://blog.crafting-labs.fr/'),
-          ('Thierry Cros', 'http://thierrycros.net/'),)
+          ('Jean-Baptiste Dusseaut', 'http://bodysplash.fr/'),
+          ('Jérôme Avoustin', 'http://blog.avoustin.com/'),
+          ('Fabrice Aimetti', 'http://www.fabrice-aimetti.fr/'),
+          ('Bruno Sbille', 'http://brunosbille.com/'),
+          ('Nicolas Deverge', 'https://twitter.com/ndeverge'),
+          ('Laurent Morisseau', 'http://www.morisseauconsulting.com/'),
+          ('Alexis Monville', 'http://ayeba.fr/ayeba/equipe/alexis/'),
+          ('Alexandre Boutin', 'http://www.agilex.fr/'),
+          ('Romain Couturier', 'http://www.terredagile.com/'),
+          ('Ron Jeffries', 'http://xprogramming.com/index.php'),
+          ('Martin Fowler','http://martinfowler.com/'),
+          ('Henrik Kniberg', 'http://blog.crisp.se/author/henrikkniberg'),
+          )
 
 # Social widget
 SOCIAL = (('twitter acassaigne', 'https://twitter.com/acassaigne'),
