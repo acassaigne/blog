@@ -29,6 +29,7 @@ LINKS =  (('Are You Agile', 'http://www.areyouagile.com/'),
           ('Bruno Sbille', 'http://brunosbille.com/'),
           ('Nicolas Deverge', 'https://twitter.com/ndeverge'),
           ('Laurent Morisseau', 'http://www.morisseauconsulting.com/'),
+          ('Laurent Carbonnaux', 'http://lolcx.blogspot.fr/'),
           ('Alexis Monville', 'http://ayeba.fr/ayeba/equipe/alexis/'),
           ('Alexandre Boutin', 'http://www.agilex.fr/'),
           ('Romain Couturier', 'http://www.terredagile.com/'),
@@ -42,6 +43,10 @@ SOCIAL = (('twitter acassaigne', 'https://twitter.com/acassaigne'),
           ('github acassaigne', 'https://github.com/acassaigne'),)
 
 DEFAULT_PAGINATION = 10
+
+GOOGLE_ANALYTICS='UA-53235336-1'
+
+TWITTER_USERNAME = 'acassaigne'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
