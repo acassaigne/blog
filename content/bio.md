@@ -9,9 +9,9 @@ En 2005 je m'intéresse à XP en lisant le livre Extreme Programming Explained d
 
 Depuis je ne cesse d'étudier avec un vif intérêt ce vaste territoire d'une grande richesse afin de mieux former et accompagner les équipes dans leur transformation à l'agilité. 
 
-Si vous cherchez un consultant dans ce domaine vous pouvez me contacter à cette adresse 'anthony.cassaigne at gmail.com' ou m'appeler au numéro suivant 06 83 37 32 72.
+Si vous cherchez un consultant dans ce domaine vous pouvez me [contacter](|filename|/contacter.md).
 
-Vous pouvez consulter mes offres de prestations ici. 
+Vous pouvez consulter mes [offres de prestations ici](|filename|/contacter.md). 
 
 Actuellement je m'intéresse plus particulièrement à l'ensemble des techniques et outils permettant un meilleur recueil du besoin et une plus grande détermination des enjeux au sein des projets. Pour cela nous commençons à avoir quelques outils : Impact Mapping, User Story Mapping, Lean Startup, Personas, Innovation games...  
 

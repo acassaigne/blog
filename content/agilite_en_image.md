@@ -1,9 +1,22 @@
 Title: Agilité en images
 Date: 2014-07-15
+Modified: 2014-07-26
 Tags: image, agile, software craftsmanship
 Category: Images & Agilité
 Author: Anthony Cassaigne
 
+![Iterate Iterate Iterate](images/iterate_iterate_iterate.png)  
+
+---
+![Great Result Happen](images/great_result_happen.png)  
+
+---
+![usability_utility](images/usability_utility.png)  
+
+---
+![stop learn](images/stop_learn_small.jpg)  
+
+---
 ![learn](images/learn.png) 
 
 ---

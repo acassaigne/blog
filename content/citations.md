@@ -17,6 +17,10 @@ Author: Anthony Cassaigne
 ― Virgile
 
 ---
+>Aucun plan ne survit au premier contact avec l’ennemi  
+― Von Moltke
+
+---
 
 >Organizing a self-organizing system is not only an oxymoron, it’s stupid.  
 ― [Harrison Owen](http://tyhallock.blogspot.fr/2014/02/harrison-owen-interview-inviting-flow.html)
@@ -28,6 +32,41 @@ Author: Anthony Cassaigne
 ---
 >La perfection est atteinte, non pas lorsqu'il n'y a plus rien à ajouter, mais lorsqu'il n'y a plus rien à retirer.  
 ― Antoine de Saint-Exupéry
+
+---
+>"Responding to Change" is impossible unless code is easy to change, maintin, fix and enhance.  
+― [mobprogramming](http://mobprogramming.org/)
+
+---
+>It is in the doing of the work that we discover the work that we must do. Doing expose reality.  
+― [mobprogramming](http://mobprogramming.org/)
+
+---
+>((((DO SOMETHING!) NOW) SMALL) USEFUL) - what do you think?" - I think I love it!  
+― [mobprogramming](http://mobprogramming.org/)
+
+---
+>Just because the rules are simple doesn't mean the game is easy  
+― [Henrik Kniberg](http://www.crisp.se/konsulter/henrik-kniberg) on Kanban, Lean from the Trenches.
+
+---
+>Those who have knowledge, don't predict. Those who predict, don't have knowledge.  
+― Lao-tzu  
+
+---
+>Dis-moi et j’oublierai, montre-moi et je me souviendrai, implique-moi et je comprendrai.  
+― Confucius  
+[Merci à Pablo](http://www.areyouagile.com/pages/formations.html) pour m'avoir fait découvrir cette citation. 
+
+---
+>Il faut jouer pour devenir sérieux.  
+― Aristote   
+[Merci à Pablo](http://www.areyouagile.com/pages/formations.html) pour m'avoir fait découvrir cette citation. 
+
+---
+>Trop de sages femmes, le bébé est mort  
+― proverbe roumain  
+[Merci à Pablo](http://www.areyouagile.com/2014/03/les-temps-complexes-revisitons-agile/) pour m'avoir fait découvrir cette citation. 
 
 ---
 >Failure is simply the opportunity to begin again, this time more intelligently.  
