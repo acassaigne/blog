@@ -1,0 +1,29 @@
+Title: Rétrospective
+Date: 2014-07-24
+Tags: Rétrospective, Agile, Amélioration continue, Kaizen
+Category: Article
+Author: Anthony Cassaigne
+
+La rétrospective n'est pas un exercice forcément simple à mettre en oeuvre. Il
+n'en demeure pas moins un élément essentiel d'une équipe agile car c'est le moteur
+de l'amélioration continue. Cet article n'a pas vocation à innover dans ce domaine mais simplement à rappeler les éléments fondamentaux d'une rétrospective. 
+La trame d'une rétrospective est constitué de cinq phases qui sont l'ouverture, la collecte de données, l'analyse/trie, action, cloture.
+
+La phase d'ouverture ne constitue pas seulement une phase d'introduction, elle
+a pour but de s'assurer que la parole est libre dans un esprit constructif. Bref la rétrospective n'est pas ni le lieu, ni le moment d'un réglement de compte organisé.
+
+Bref rappeler ou faire connaitre la directive de Norman Kerth constitue une bonne
+introduction : 
+> "Indépendamment de ce que nous
+découvrons, nous comprenons et nous
+croyons sincèrement que chacun a fait
+du mieux qu'il pouvait, compte tenu de
+ce qu'il savait à l'époque, de ses
+compétences et de ses prérogatives, des
+ressources disponibles et de la situation
+du moment."
+– Directive de Norman Kerth
+
+La rétrospective est donc le temps que l'équipe s'accorde pour analyser l'itération ou sprint passé afin de déterminer les éléments organisationnels, les pratiques... qui ont correctement fonctionnés et ceux qui méritent d'être améliorés ou les obstacles à lever. Bref c'est le moment d'inspection (pas au sens flicage ! Merci.) et d'adaptation.
+Participent à la rétrospective tous les membres de l'équipe y compris le Product Owner, venir à ce rendez-vous régulier en ayant l'esprit la directive de Norman Kerth est un bon point de départ.  
+En tant que facilitateur de la rétrospective vous pouvez 
