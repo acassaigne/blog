@@ -3,19 +3,55 @@ Category: Qui Suis-je...
 Date: 2014-07-20
 Modified: 2014-07-20
 
-Pendant les dix années en tant que développeur et consultant dans le domaine des SGBDR Oracle (développeur, DBA, responsable technique...) je n'étais pas satisfait par la gestion de projet telle que je la vivais. C'est à dire essentiellement au travers de cycles en V ou de type waterfall.  
+#Un agiliste convaincu et un apprenti software craftsmanship. 
 
-En 2005 je m'intéresse à XP en lisant le livre Extreme Programming Explained de Kent Beck. Oui même un DBA peut s'intéressé à ce type d'ouvrage car j'ai toujours considéré que mon métier est d'être proche du développement de logiciel. Bref à lecture de ce livre, j'entrevois pour la première fois une autre façon d'appréhender le développement. Mais malheureusement je n'ai pas l'opportunité d'intégrer une équipe mettant en oeuvre cette approche. C'est en 2010 que je décide de suivre une formation sur Scrum auprès de [Claude Aubry](http://www.aubryconseil.com/). C'est cette formation qui m'a réellement ouvert les portes de l'agilité.
+Je suis convaincu de la pertinence de l'approche agile comparativement à la
+gestion de projets de type cycle en V que j'ai personnellement vécu, au cours
+de ma carrière passé en tant que développeur : DBA, responsable technique...
 
-Depuis je ne cesse d'étudier avec un vif intérêt ce vaste territoire d'une grande richesse afin de mieux former et accompagner les équipes dans leur transformation à l'agilité. 
+C'est en 2005 que je commence à m'intéresser à eXtreme Programming en lisant
+le livre *Extreme Programming Explained* de Kent Beck. A la lecture de ce
+livre, j'entrevois pour la première fois une autre façon d'appréhender le
+développement : par un processus itératif en cycles courts, par le pair
+programming et une réponsabilité collective du code. Je dois avouer que je
+n'avais pas réllement perçus toute la portée du Test Driven Developpement et
+je n'avais pas saisi l'intérêt des Stories, c'est à dire d'exprimer le besoin
+par d'autres moyens que les classiques documents d'exigences. Cependant mon
+parcours ne pas m'offert l'opportunité d'intégrer une équipe mettant en oeuvre
+cette approche et il me faudra encore quelques années pour qu'il me soit
+possible de confronter cette nouvelle vision à la réalité d'un projet.
 
-Si vous cherchez un consultant dans ce domaine vous pouvez me [contacter](|filename|/contacter.md).
+En 2010 une formation Scrum de [Claude Aubry](http://www.aubryconseil.com/) à
+laquelle je participe termine de me convaincre totalement sur le fait que
+l'approche l'agile constitue une réponse pertinente à bon nombre de
+problématiques projets. C'est également à ce moment que je décide de m'engager
+activement dans la communauté Agile en me rapprochant de [l'association Agile
+Toulouse](http://www.agiletoulouse.fr).
 
-Vous pouvez consulter mes [offres de prestations ici](|filename|/contacter.md). 
+En 2011 je participe donc à l'organisation de l'Agile Tour de Toulouse. En
+2012 je rentre au bureau de l'association et poursuit par la participation à
+l'organisations des Agile Tour de Toulouse des éditions 2012, 2013 et 2014
+(rendez-vous le 16 et 17 octobre de cette année).
 
-Actuellement je m'intéresse plus particulièrement à l'ensemble des techniques et outils permettant un meilleur recueil du besoin et une plus grande détermination des enjeux au sein des projets. Pour cela nous commençons à avoir quelques outils : Impact Mapping, User Story Mapping, Lean Startup, Personas, Innovation games...  
+Depuis 2010, je ne cesse d'étudier avec un vif intérêt ce vaste territoire
+d'une grande richesse par l'intermédiaire : de nombreuse lectures, d'échanges
+et d'évenements auxquels je participe tels que les Agile Tour de Bordeaux,
+Toulouse, Montpellier, Agile Grenoble, Agile Open Sud, le [club de lecture de
+l'association Agile Toulouse](http://www.agiletoulouse.fr/club-de-lecture/club-de-lecture-le-9-septembre-2014)
+ que j'anime à raison d'une rencontre tous le deux mois ainsi que divers ateliers.
 
-Vous pouvez également me croiser aux divers événements de [l'association Agile Toulouse](http://agiletoulouse.fr/) ainsi qu'au sein du collectif [Software Craftsmanship Toulouse](http://www.meetup.com/Software-Craftsmanship-Toulouse/) (initié par [Antoine Vernois](https://blog.crafting-labs.fr/)).  
-Je fais également parti du comité d'organisation de [l'étape Toulousaine de l'Agile Tour](http://tour.agiletoulouse.fr/).
+Aujourd'hui cette insatiable faim de connaissances s'est mué en une volonté de
+partager, de former et d'accompagner les équipes dans leur transformation à
+l'agilité. Si vous portez un projet de transformation agile : [contacter
+moi](|filename|/contacter.md).
+
+Vous pouvez également consulter la [liste des prestations](|filename|/contacter.md).
+
+Actuellement je me concentre tout particulièrement sur les techniques et les
+outils tels que : l'impact Mapping, User Story Mapping, Lean Startup,
+Personas, Innovation games... permettant un meilleur recueil des besoins et
+l'identification des enjeux au coeur des projets.
+
+Vous pouvez également me retrouver autour des divers événements de [l'association Agile Toulouse](http://agiletoulouse.fr/) ou sein du collectif [Software Craftsmanship Toulouse](http://www.meetup.com/Software-Craftsmanship-Toulouse/) (initié par [Antoine Vernois](https://blog.crafting-labs.fr/)).  
 
 Poursuivre la lecture avec [Pourquoi ce blog...](http://acassaigne.info/pourquoi-ce-blog.html)

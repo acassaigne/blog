@@ -1,4 +1,5 @@
 Title: Citations
+Modified: 2014-07-31
 Date: 2014-07-16
 Tags: citation, agile, software craftsmanship
 Category: Citations
@@ -32,6 +33,21 @@ Author: Anthony Cassaigne
 ---
 >La perfection est atteinte, non pas lorsqu'il n'y a plus rien à ajouter, mais lorsqu'il n'y a plus rien à retirer.  
 ― Antoine de Saint-Exupéry
+
+---
+>There is far more variability on value side than cost side. Stop obsessing about cost & focus on understanding value  
+― @joshuajames #agile2014
+
+---
+>Il faut tester (#TDD/#BDD) au plus près du moment de création. Ainsi nous pouvons prévenir la plupart des défauts.  
+―  Ron Jeffries
+
+---
+>If you could add another value to the Agile Manifesto, could you state it?  
+We value practices, tools, consulting, coaching, and software organizational work that continuously improve their adherence to the Agile Manifesto  
+**OVER**  
+Tools, products, methodologies, processes, practices that only use the word Agile to market themselves to make money and whose correlation to the Agile Manifesto is coincidental.  
+―  [Ken Schaber](http://kenschwaber.wordpress.com/2014/07/30/agile/)
 
 ---
 >"Responding to Change" is impossible unless code is easy to change, maintin, fix and enhance.  
