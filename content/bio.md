@@ -7,7 +7,7 @@ Modified: 2014-07-20
 
 Je suis convaincu de la pertinence de l'approche agile comparativement à la
 gestion de projets de type cycle en V que j'ai personnellement vécu, au cours
-de ma carrière passé en tant que développeur : DBA, responsable technique...
+de ma carrière passé en tant que : développeur, DBA, responsable technique...
 
 C'est en 2005 que je commence à m'intéresser à eXtreme Programming en lisant
 le livre *Extreme Programming Explained* de Kent Beck. A la lecture de ce
@@ -22,16 +22,16 @@ cette approche et il me faudra encore quelques années pour qu'il me soit
 possible de confronter cette nouvelle vision à la réalité d'un projet.
 
 En 2010 une formation Scrum de [Claude Aubry](http://www.aubryconseil.com/) à
-laquelle je participe termine de me convaincre totalement sur le fait que
-l'approche l'agile constitue une réponse pertinente à bon nombre de
-problématiques projets. C'est également à ce moment que je décide de m'engager
-activement dans la communauté Agile en me rapprochant de [l'association Agile
+laquelle je participe me conforte grandement sur le fait que l'approche
+l'agile constitue une réponse pertinente à bon nombre de problématiques
+projets. C'est également à ce moment là que je décide de m'engager activement
+dans la communauté Agile en me rapprochant de [l'association Agile
 Toulouse](http://www.agiletoulouse.fr).
 
 En 2011 je participe donc à l'organisation de l'Agile Tour de Toulouse. En
 2012 je rentre au bureau de l'association et poursuit par la participation à
-l'organisations des Agile Tour de Toulouse des éditions 2012, 2013 et 2014
-(rendez-vous le 16 et 17 octobre de cette année).
+l'organisations des Agile Tour de Toulouse pour les éditions 2012, 2013 et 2014
+([rendez-vous le 16 et 17 octobre de cette année](http://tour.agiletoulouse.fr/)).
 
 Depuis 2010, je ne cesse d'étudier avec un vif intérêt ce vaste territoire
 d'une grande richesse par l'intermédiaire : de nombreuse lectures, d'échanges
