@@ -26,6 +26,11 @@ Author: Anthony Cassaigne
 >Organizing a self-organizing system is not only an oxymoron, it’s stupid.  
 ― [Harrison Owen](http://tyhallock.blogspot.fr/2014/02/harrison-owen-interview-inviting-flow.html)
 
+or
+
+> Organizing a self organizing system is not only an oxymoron-- it simply doesn’t work.  
+― Harrison Owen
+
 ---
 >In XP, we don't divide and conquer. We conquer and divide. First we make something that works, then we bust that up and solve the little parts.  
 ― [Kent Beck](http://www.threeriversinstitute.org/blog/)

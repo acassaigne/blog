@@ -3,10 +3,13 @@ Category: Articles
 Date: 2014-08-02
 Modified: 2014-08-03
 
+
+![Photo pair programming](images/photo_pair_programming.jpg) 
+ 
 L'activité de pair de programming ou la programmation en binôme consiste à
 travailler installé côte à côte sur le même poste de travail afin d'achever
 une tâche. Le développeur utilisant le clavier est dénomé pilote (driver), le
-second est dénomé copilote (navigator). Les deux développeurs collaborant
+second est dénomé copilote (navigator). Les deux développeurs collaborent
 continuellement en écrivant les tests, le code de production, en échangeant
 sur le design... Le rôle du pilote est d'écrire le code alors que le rôle du
 copilote (navigator) a pour fonction de prendre plus ou moins de recule. Le
@@ -128,3 +131,5 @@ projet.
 [^Ward]: http://en.wikiquote.org/wiki/Talk:Ward_Cunningham
 [^PairIllu]: Pair Programming Illuminated - Laurie Williams & Robert Kessler - Addison Wesley 2002 - ISBN: 0-201-74576-3 
 [^AgileFlash]: Agile in a Flash - Jeff Langr & Tim Ottinger - Pragmatic Programmers 2011 - ISBN: 978-1-93435-671-5
+
+Photo de [memlopics sur flickr](https://www.flickr.com/photos/menlopics/)

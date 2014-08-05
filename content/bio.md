@@ -7,7 +7,7 @@ Modified: 2014-07-20
 
 Je suis convaincu de la pertinence de l'approche agile comparativement à la
 gestion de projets de type cycle en V que j'ai personnellement vécu, au cours
-de ma carrière passé en tant que : développeur, DBA, responsable technique...
+de ma carrière passé en tant que : développeur, DBA, responsable technique... 
 
 C'est en 2005 que je commence à m'intéresser à eXtreme Programming en lisant
 le livre *Extreme Programming Explained* de Kent Beck. A la lecture de ce
