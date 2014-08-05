@@ -50,3 +50,7 @@ TWITTER_USERNAME = 'acassaigne'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+STATIC_PATHS = ['images']
+TYPOGRIFY = True
+SUMMARY_MAX_LENGTH = 50
