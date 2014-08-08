@@ -54,3 +54,5 @@ TWITTER_USERNAME = 'acassaigne'
 STATIC_PATHS = ['images']
 TYPOGRIFY = True
 SUMMARY_MAX_LENGTH = 50
+
+
