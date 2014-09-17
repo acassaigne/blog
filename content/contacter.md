@@ -7,7 +7,7 @@ Vous pouvez me contacter à cette adresse 'anthony.cassaigne at gmail.com' ou m'
 
 #1 - Offre consultant Agile & Scrum Master 
 Je peux vous accompagner en tant que consultant agile au cours de votre projet.
-Un consultant agile est un équipier pleinement impliqué au coeur de l'équipe avec une forte
+Un consultant agile est un équipier pleinement impliqué au cœur de l'équipe avec une forte
 présence terrain. C'est la garantie d'un facilitateur de chaque
 instant, permettant également un meilleur apprentissage de l'équipe. De par sa présence
 terrain le consultant agile acquiert une connaissance métier offrant une plus

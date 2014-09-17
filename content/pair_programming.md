@@ -30,15 +30,16 @@ Les bénéfices constatés sont :
 * permet le transfert de connaissances,
 * améliore l'apprentissage.
 
-Beaucoup de managers sont sceptiques quant à l'efficacité du pair programming ! Pourtant la
-programmation en binôme permet d'atteindre une même qualité de code avec un gain de temps de l'ordre de 50%. 
-C'est à dire qu'il faut environ deux fois plus de temps à un développeur seul pour arriver à la même 
-qualité de code. En 1980 Larry Constantine remarque déjà que la production de code
-résultant d'un binôme est de bien meilleure qualité car le code produit résulte
-de dialogues réguliers et est issu de la réflexion de deux cerveaux. 
-Il conclut par cette phrase : *"Deux programmeurs en tandem ne sont pas redondant, mais constituent
-plutôt la route la plus directe pour obtenir une grande efficacité et 
-une meilleure qualité."*[^PairIllu] (Constantine 1995). 
+Beaucoup de managers sont sceptiques quant à l'efficacité du pair programming
+! Pourtant la programmation en binôme permet d'atteindre une même qualité de
+code avec un gain de temps de l'ordre de 50%.  C'est à dire qu'il faut environ
+deux fois plus de temps à un développeur seul pour arriver à la même  qualité
+de code. En 1980 Larry Constantine remarque déjà que la production de code
+résultant d'un binôme est de bien meilleure qualité car le code produit
+résulte de dialogues réguliers et est issu de la réflexion de deux cerveaux.
+Il conclut par cette phrase : *"Deux programmeurs en tandem ne sont pas
+redondant, mais constituent plutôt la route la plus directe pour obtenir une
+grande efficacité et  une meilleure qualité."*[^PairIllu] (Constantine 1995).
 
 Ward Cunningham a exprimé cette idée plus simplement et plus directement 
  : *"If you don't think carefully, you might think that
@@ -51,11 +52,10 @@ important.
 
 Faut-il pour autant imposer cette pratique ? Non, il ne s'agit pas de
 l'imposer mais d'inviter et d'inciter les développeurs à pratiquer ce mode de
-travail. En réalisant un mois d'essai, par exemple. Vous verrez alors les "early
-adopters" se révéler. Ils feront des émules et amèneront l'équipe à adopter
-cette pratique. A terme, la plupart des développeurs souhaitera travailler
- uniquement de cette façon.
-
+travail. En réalisant un mois d'essai, par exemple. Cette pratique fera des
+émules par l'intermédiaire de leader et progressivement l'équipe à adoptera
+ce mode de travail. A terme, la plupart des développeurs souhaiteront travailler
+essentiellement de cette façon.
 
 ## Six conseils pour bien binômer
 
@@ -107,9 +107,9 @@ fonctionnant est un argument bien plus tangible qu'un débat stérile à propos
 d'un code possible.
 
 * Un binôme dans lequel on constate que l'un travail alors que l'autre se
-désengage n'est pas un comportement sain. C'est peut être que vous avez besoin d'une pause ou de changer de partenaire.
-Si quelqu’un présente un comportement de désengagement régulier, il peut être utile de coacher cette
-personne.
+désengage n'est pas un comportement sain. C'est peut être que vous avez besoin
+d'une pause ou de changer de partenaire. Si quelqu’un présente un comportement
+de désengagement régulier, il peut être utile de coacher cette personne.
 
 * Un binômage dans lequel il y a une relation malsaine de type inamicale ou
 pire hostile, est un sérieux problème. Un des symptômes est une stabilité dans
@@ -126,11 +126,12 @@ optimale. Il y a un temps pour tout.
 
 Si vous souhaitez obtenir une meilleur qualité de code, des programmeurs
 motivés, une plus grande efficacité, un meilleur apprentissage, alors essayez
-la programmation en binôme. En gardant à l'esprit ces
-points permettant d'éviter quelques écueils. Cette pratique apporte de réels bénéfices, quel que soit le projet.
+la programmation en binôme. En gardant à l'esprit ces points permettant
+d'éviter quelques écueils. Cette pratique apporte de réels bénéfices, quel que
+soit le projet.
 
-[^Ward]: http://en.wikiquote.org/wiki/Talk:Ward_Cunningham
 [^PairIllu]: Pair Programming Illuminated - Laurie Williams & Robert Kessler - Addison Wesley 2002 - ISBN: 0-201-74576-3 
+[^Ward]: http://en.wikiquote.org/wiki/Talk:Ward_Cunningham
 [^AgileFlash]: Agile in a Flash - Jeff Langr & Tim Ottinger - Pragmatic Programmers 2011 - ISBN: 978-1-93435-671-5
 
 Photo de [Memlopics sur flickr](https://www.flickr.com/photos/menlopics/)

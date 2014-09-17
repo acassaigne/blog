@@ -17,15 +17,15 @@ programming et une responsabilité collective du code. Je dois avouer que je
 n'avais pas réellement perçu toute la portée du Test Driven Development et
 je n'avais pas saisi l'intérêt des Stories, c'est à dire d'exprimer le besoin
 par d'autres moyens que les classiques documents d'exigences. Cependant mon
-parcours ne m'a pas offert l'opportunité d'intégrer une équipe mettant en oeuvre
+parcours ne m'a pas offert l'opportunité d'intégrer une équipe mettant en œuvre
 cette approche et il me faudra encore quelques années pour qu'il me soit
 possible de confronter cette nouvelle vision à la réalité d'un projet.
 
 En 2010 une formation Scrum de [Claude Aubry](http://www.aubryconseil.com/) à
-laquelle je participe me conforte grandement sur le fait que l'approche
-agile constitue une réponse pertinente à bon nombre de problématique
-projets. C'est également à ce moment là que je décide de m'engager activement
-dans la communauté Agile en me rapprochant de [l'association Agile
+laquelle je participe me conforte grandement sur le fait que l'approche agile
+constitue une réponse pertinente à bon nombre de problématiques rencontrées au
+sein des projets. C'est également à ce moment là que je décide de m'engager
+activement dans la communauté Agile en me rapprochant de [l'association Agile
 Toulouse](http://www.agiletoulouse.fr).
 
 En 2011 je participe donc à l'organisation de l'Agile Tour de Toulouse. En
@@ -50,7 +50,7 @@ Vous pouvez également consulter la [liste des prestations](|filename|/contacter
 Actuellement je me concentre tout particulièrement sur les techniques et les
 outils tels que : l'impact Mapping, User Story Mapping, Lean Startup,
 Personas, Innovation games... permettant un meilleur recueil des besoins et
-l'identification des enjeux au coeur des projets.
+l'identification des enjeux au cœur des projets.
 
 Vous pouvez également me retrouver autour des divers évènements de [l'association Agile Toulouse](http://agiletoulouse.fr/) ou au sein du collectif [Software Craftsmanship Toulouse](http://www.meetup.com/Software-Craftsmanship-Toulouse/) (initié par [Antoine Vernois](https://blog.crafting-labs.fr/)).  
 

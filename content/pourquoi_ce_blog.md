@@ -3,7 +3,7 @@ Category: Qui Suis-je...
 Date: 2014-07-01
 Modified: 2014-07-13
 
- Je suis convaincu par l'agilité pour le moins dans le domaine de l'IT. Cependant, une transition à l'agilité n'est pas chose aisée et surtout une transition à l'agilité ne doit pas se limiter à la mise en oeuvre d'un ensemble de pratiques. 
+ Je suis convaincu par l'agilité pour le moins dans le domaine de l'IT. Cependant, une transition à l'agilité n'est pas chose aisée et surtout une transition à l'agilité ne doit pas se limiter à la mise en œuvre d'un ensemble de pratiques. 
 
 Il convient à toute organisation et/ou personne de changer de culture en adoptant les valeurs et principes définis par le [Manifeste Agile](http://agilemanifesto.org/). 
 
