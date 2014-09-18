@@ -44,3 +44,4 @@ une simplifaction dans la présentation des User Stories. J'ai également
 simplifié la feuille de score afin de présenter sur une unique feuille les
 résultats des trois itérations.
 
+Vous pouvez retrouvez l'intégralité des resources ici : htpp://github/acassaigne
