@@ -54,8 +54,7 @@ Faut-il pour autant imposer cette pratique ? Non, il ne s'agit pas de
 l'imposer mais d'inviter et d'inciter les développeurs à pratiquer ce mode de
 travail. En réalisant un mois d'essai, par exemple. Cette pratique fera des
 émules par l'intermédiaire de leader et progressivement l'équipe à adoptera
-ce mode de travail. A terme, la plupart des développeurs souhaiteront travailler
-essentiellement de cette façon.
+ce mode de travail. 
 
 ## Six conseils pour bien binômer
 
@@ -74,9 +73,9 @@ changer de binôme une à deux fois par jour.
 confortable et adapté est nécessaire : il s'agit de bureaux permettant d'accueillir deux
 développeurs travaillant côte à côte (voir [The Art of Agile - partie Sample Workspaces](http://www.jamesshore.com/Agile-Book/sit_together.html)) .
 
-* Tout code de production doit être réalisé en binômant ! Cela ne veut pas que
-vous devez binomer tous les jours de la semaine, il existe des tâches n'ayant
-pas vocation à développer du code de production.
+* Tout code de production doit être réalisé en binômant ! Cela ne veut pas
+dire que vous devez binomer tous les jours de la semaine, il existe des tâches
+n'ayant pas vocation à développer du code de production.
 
 * Arrêtez vous de binômer lorsque vous êtes fatigué. Ne pas dépassez 75% de
 votre temps de travail en binomage, par jour.
