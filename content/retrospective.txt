@@ -1,5 +1,6 @@
 Title: Rétrospective
 Date: 2014-07-24
+Status: draft
 Tags: Rétrospective, Agile, Amélioration continue, Kaizen
 Category: Article
 Author: Anthony Cassaigne

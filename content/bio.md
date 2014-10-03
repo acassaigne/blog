@@ -54,4 +54,4 @@ l'identification des enjeux au cœur des projets.
 
 Vous pouvez également me retrouver autour des divers évènements de [l'association Agile Toulouse](http://agiletoulouse.fr/) ou au sein du collectif [Software Craftsmanship Toulouse](http://www.meetup.com/Software-Craftsmanship-Toulouse/) (initié par [Antoine Vernois](https://blog.crafting-labs.fr/)).  
 
-Poursuivre la lecture avec [Pourquoi ce blog...](http://acassaigne.info/pourquoi-ce-blog.html)
+Poursuivre la lecture avec [Pourquoi ce blog...]({filename}/pourquoi_ce_blog.md)
