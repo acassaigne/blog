@@ -1,5 +1,6 @@
 Title:Agile ADN... épisode n°1
 Date: 2014-08-01
+status: draft
 Modified: 2014-08-04
 Tags: image, agile, software craftsmanship
 Category: Images & Agilité
