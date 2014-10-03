@@ -1,7 +1,7 @@
 Title: Introduction au pair programming
 Category: Articles
 Date: 2014-08-02
-Modified: 2014-08-03
+Modified: 2014-10-03
 
 
 ![Photo pair programming](images/photo_pair_programming.jpg) 
@@ -14,8 +14,8 @@ continuellement en écrivant les tests, le code de production, en échangeant
 sur le design... Le rôle du pilote est d'écrire le code alors que le copilote 
 (navigator) a pour fonction de prendre plus ou moins de recul. Le
 copilote peut par exemple détecter les erreurs de syntaxe, se demander si le
-code produit correspond à la qualité attendue (par exemple: respectons nous les quatre
-règles de simplicité ?), détecter les bugs...
+code produit correspond à la qualité attendue (par exemple: respectons nous les [quatre
+règles de simplicité](http://c2.com/cgi/wiki?XpSimplicityRules) ?), détecter les bugs...
 
 La programmation en binôme est le moyen le plus efficace pour créer une **boucle
 de feedback portant sur la production de code**. C'est bien plus efficace que la
