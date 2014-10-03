@@ -53,7 +53,7 @@ important.
 Faut-il pour autant imposer cette pratique ? Non, il ne s'agit pas de
 l'imposer mais d'inviter et d'inciter les développeurs à pratiquer ce mode de
 travail. En réalisant un mois d'essai, par exemple. Cette pratique fera des
-émules par l'intermédiaire de leader et progressivement l'équipe à adoptera
+émules par l'intermédiaire de leader et progressivement l'équipe adoptera
 ce mode de travail. 
 
 ## Six conseils pour bien binômer
