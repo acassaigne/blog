@@ -7,7 +7,7 @@ Software Craftsmanship Professionalism Pragmatism Pride
 :category: Articles
 :author: Anthony Cassaigne
 
-.. image:: images/sandro_book.png
+.. image:: {filename}/images/sandro_book.png
     :height: 180px
     :alt: Couverture du livre Software Craftsmanship Professionalism Pragmatism Pride
 
