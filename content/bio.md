@@ -30,14 +30,13 @@ Toulouse](http://www.agiletoulouse.fr).
 
 En 2011 je participe donc à l'organisation de l'Agile Tour de Toulouse. En
 2012 je rentre au bureau de l'association et poursuis par la participation à
-l'organisation des Agile Tour de Toulouse pour les éditions 2012, 2013 et 2014
-([rendez-vous le 16 et 17 octobre de cette année](http://tour.agiletoulouse.fr/)).
+l'organisation des Agile Tour de Toulouse pour les éditions 2012, 2013 et 2014.
 
 Depuis 2010, je ne cesse d'étudier avec un vif intérêt ce vaste territoire
 d'une grande richesse par l'intermédiaire : de nombreuses lectures, d'échanges
 et d'événements auxquels je participe tels que les Agile Tour de Bordeaux,
 Toulouse, Montpellier, Agile Grenoble, Agile Open Sud, le [club de lecture de
-l'association Agile Toulouse](http://www.agiletoulouse.fr/club-de-lecture/club-de-lecture-le-9-septembre-2014)
+l'association Agile Toulouse](http://klub.aubryconseil.com/)
  que j'anime à raison d'une rencontre tous les deux mois ainsi que divers ateliers.
 
 Aujourd'hui cette insatiable faim de connaissances s'est muée en une volonté de
@@ -45,7 +44,7 @@ partager, de former et d'accompagner les équipes dans leur transformation à
 l'agilité. Si vous portez un projet de transformation agile : [contactez
 moi](|filename|/contacter.md).
 
-Vous pouvez également consulter la [liste des prestations](|filename|/contacter.md).
+Vous pouvez également consulter la [liste des prestations]({filename}/contacter.md).
 
 Actuellement je me concentre tout particulièrement sur les techniques et les
 outils tels que : l'impact Mapping, User Story Mapping, Lean Startup,

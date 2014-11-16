@@ -4,7 +4,7 @@ Date: 2014-08-02
 Modified: 2014-10-03
 
 
-![Photo pair programming](images/photo_pair_programming.jpg) 
+![Photo pair programming]({filename}/images/photo_pair_programming.jpg) 
  
 L'activité de pair programming ou programmation en binôme consiste à
 travailler installé côte à côte sur le même poste de travail afin d'achever

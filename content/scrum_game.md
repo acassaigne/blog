@@ -1,4 +1,5 @@
 Title: De Xp Game à Scrum Game
+slug: scrum-game
 Category: Article...
 Status: draft
 Date: 2014-09-17

@@ -3,12 +3,12 @@ Date: 2014-08-01
 status: draft
 Modified: 2014-08-04
 Tags: image, agile, software craftsmanship
-Category: Images & Agilité
+Category: ({filename}/images & Agilité
 Author: Anthony Cassaigne
 
 
-![ADN Agile](images/adn_agile2_v2.png)
-Quelques images collectées de-ci de-là concernant l'actualité de l'agilité et
+![ADN Agile]({filename}/images/adn_agile2_v2.png)
+Quelques ({filename}/images collectées de-ci de-là concernant l'actualité de l'agilité et
 quelques courtes citations. Bref de la matière donnant à réflechir, une autre
 façon de développer son ADN Agile - Software Craftsmanship.
 
@@ -20,7 +20,7 @@ tweeter august 2014
 
 ---
 
-![Don't use KPI](images/dont_kpi_small.jpg)
+![Don't use KPI]({filename}/images/dont_kpi_small.jpg)
 @richardnystroms  
 tweeter august 2014
 
@@ -30,7 +30,7 @@ by @bbogsnes #agile2014
 tweeter august 2014
 
 ---
-![Bound & rules dev](images/rules_dev_software.jpg)  
+![Bound & rules dev]({filename}/images/rules_dev_software.jpg)  
 by @OlaLewitz  
 tweeter august 2014
 
