@@ -4,7 +4,13 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Anthony Cassaigne'
 SITENAME = u'Agilit\xe9 - Software Craftsmanship'
-SITEURL = ''
+SITEURL = 'http://acassaigne.info'
+#SITEURL = ''
+
+ARTICLE_URL = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
+ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
+
+DEFAULT_METADATA = (('agile', 'software craftsmanship'),)
 
 PATH = 'content'
 
@@ -49,7 +55,7 @@ GOOGLE_ANALYTICS='UA-53235336-1'
 TWITTER_USERNAME = 'acassaigne'
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = False
 
 STATIC_PATHS = ['images']
 TYPOGRIFY = True
