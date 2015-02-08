@@ -1,4 +1,4 @@
-Title: Citations
+Title: Formation Facilitation Graphique
 Modified: 2015-02-08
 Date: 2015-02-08
 Tags: formation, facilitation graphique
