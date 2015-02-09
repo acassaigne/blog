@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Anthony Cassaigne'
 SITENAME = u'Agilit\xe9 - Software Craftsmanship'
 SITEURL = 'http://acassaigne.info'
-#SITEURL = ''
+#SITEURL = 'http://localhost:8000'
 
 ARTICLE_URL = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
 ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
