@@ -2,7 +2,7 @@ Title: Formation Facilitation Graphique
 Modified: 2015-02-08
 Date: 2015-02-08
 Tags: formation, facilitation graphique
-Category: article
+Category: Articles
 Author: Anthony Cassaigne
 
 Ma première rencontre avec la facilitation graphique survint lors de
