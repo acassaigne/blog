@@ -1,4 +1,9 @@
-Un Raid Agile pour une formation au top. 
+Title: Un Raid Agile pour une formation au top.
+Category: Articles
+Date: 2015-02-18
+Modified: 2015-02-18
+
+
 
 La décision d'embarquer pour le Raid Agile fut aisée à prendre car connaissant
 Claude et Pablo, je n'ai jamais eu de réelles inquiétude sur la qualité du
@@ -11,6 +16,8 @@ Jean du Gard). Mais ce n'est pas l'option que j'avais retenu car j'arrivais de
 Grenoble. Parlons un peu de ce lieu, le Mas du Canton est un bien bel endroit
 ,au sein d'un écrin verdoyant, doté de tout le confort souhaitable, parfait
 pour immerger pendant quelques jours un petit groupe de personnes.
+
+![Raid Agile]({filename}/images/raid_ecrin_de_verdure_small.jpg) 
 
 Lors de notre arrivée nous nous retrouvons dans une grande salle, salle qui se
 transforme rapidement en obeya sous l'impulsion de Pablo. Pablo et Claude
@@ -67,13 +74,19 @@ La troisième journée commença par une randonnée sur le Mont Brion ce fut alo
 l'occassion d'échanger et de participer à un Quiz Agile, excellent moyen pour
 réviser quelques notions et parfois débattre de situations.
 
+![Raid Agile]({filename}/images/raid_au_top_small.jpg) 
+
 Ce fut une randonnée dans un cadre remarquable et sauvage, sous un beau soleil
 avec certe quelques difficultés car la montée est assez raide, ce fut la
 difficulté de ce Raid Agile. Au sommet nous avons profité de la pause pour
 participer à un atelier proposé par Pablo provoquant d'intenses conversations
 entre les participants. On dit que la marche est excellente pour stimuler
 l'activité cérébrale çà semble se vérifier ou alors c'est l'effet de la
-grandeur des paysages. De retour au Mas, en fin de matinée, Claude proposa un
+grandeur des paysages. 
+
+![Raid Agile]({filename}/images/raid_claude_small.jpg) 
+
+De retour au Mas, en fin de matinée, Claude proposa un
 Kanbanzine. Deux équipes se forma et l'atelier fut rapidement lancé. Pablo et
 moi nous nous sommes chargés de la partie logistique, par la préparations de
 quelques encas afin que les équipes puissent pousuivre leur expérience de jeu
@@ -93,20 +106,8 @@ survivez au Raid Agile vous obtenez votre certificat Châtaigne, Saucisson et
 Méthodes Agiles (CSM), enfin si vous avez le niveau ! Pour moi ce fut tout juste
 notamment sur la partie Saucissons qui est de loin l'épreuve la plus exigeante !
 
+![Raid Agile]({filename}/images/raid_pablo_claude_small.jpg) 
+
 Bref encore un sacré clin d'oeil de ce binôme de choc sur la fatuité de cette
-course aux certifications...
+course aux certifications... point de vue que je partage pleinement.
 
-
- permettant de recharger les batteries
-des participants. 
-
-
-Rando, Kanbanzine Théorie
-Kanban
-
-
-Le premier cela se révèle être
-rapidement bénéfique pour l'échange, pour 
-
-
-May Nothing But Happiness Come Through Your...
