@@ -11,16 +11,29 @@ le mob vers un objectif commun.  Il se doit de donner une direction en
 ayant une vision global du développement en cours, c'est sa première
 responsabilité mais ce n'est pas la seule.
 
-Un bon·ne navigateur ou navigatrice doit également s'assurer que : 
-- tous et toutes ont une bonne compréhension du contexte, du problème que nous cherchon à solutionner,
-- la parole circule librement en étant une succession de dialogues,
-- chacun puisse utiliser les tableaux blancs afin de réaliser tout schéma utile, dessin, annotation...
-- qu'il y a un partage des idées et que ces dernières soit prise en compte,
-- tous et toutes restent focalisé sur le problème que nous cherchons à résoudre (éviter de se disperser)
+Un navigateur ou navigatrice doit également s'assurer : 
+- que tous et toutes ont une bonne compréhension du contexte, du problème que nous cherchon à solutionner,
+- que la parole circule librement en étant une succession de dialogues,
+- que chacun puisse utiliser les tableaux blancs afin de réaliser tout schéma, dessin, annotation s'avérant utile...
+- qu'il y a un partage des idées et que ces dernières sont prise en compte,
+- que tous et toutes sont pleinement focalisé sur le problème que nous cherchons à résoudre et ainsi nous nous engageons à poursuivre la co-construction de la solution.
 
 Ainsi décrit, nous pourrions penser qu'il n'y a qu'un unique navigateur (bien
 entendu tournant) au sein du mob à un moment donné. C'est plutôt la
 configuration que je conseil pour une équipe s'essayant au mob programming.
-Essentiellement pour favoriser la capacité d'écoute
 
-afin que les échange se fasse en mode dialogue.
+En phase d'apprentissage identifier clairement qui est navigateur permet
+d'être plus respecteux au fait que la communication doit toujours être réalisé
+en mode dialogue, au cours de cette période d'apprentissage j'encourage les
+membres du mob à engager un dialogue uniquement avec le navigateur.  Il est
+possible d'utiliser un baton de parole ou alors de lever la main lorsque l'on 
+souhaite avoir un dialogue avec le navigateur.
+
+Lorsque la règle du dialogue est intériorisée ainsi que celle de l'engagement à
+poursuivre la co-construction d'une solution, il est alors envisageable de
+considérer que tout membre de l'équipe est navigateur (ormis le driver). Le
+rôle de navigateur circulant librement entre les membres comme nous le suggère
+la première vidéo présentée par Woody Zuill en 2012 ([A day of Mob Programming](https://www.youtube.com/watch?v=p_pvslS4gEI))
+
+![Tous navigateur]({filename}/images/mob_one_driver_all_navigators.png)
+
