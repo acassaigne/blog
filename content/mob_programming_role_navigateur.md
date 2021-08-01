@@ -22,3 +22,5 @@ Ainsi décrit, nous pourrions penser qu'il n'y a qu'un unique navigateur (bien
 entendu tournant) au sein du mob à un moment donné. C'est plutôt la
 configuration que je conseil pour une équipe s'essayant au mob programming.
 Essentiellement pour favoriser la capacité d'écoute
+
+afin que les échange se fasse en mode dialogue.
