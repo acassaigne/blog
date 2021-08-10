@@ -15,7 +15,7 @@ Lorsque les équipes de développement de Woody Zuill, on intégré le mob
 programming dans leur quotidient. C'est à dire réaliser l'ensemble des tâches
 suivant ce mode d'organisation, ils se sont apperçu qu'il était parfois
 difficile d'être la quasi totalité du temps ensemble. Ils ont réalisé
-quelques retrospective pour ce que mode d'organisation soit soutenable pour
+quelques retrospective afin que ce mode d'organisation soit soutenable pour
 tous et toutes. C'est ainsi qu'a émergé ce principe permettant à chacun de
 trouver sa place dans la durée. 
 
