@@ -12,6 +12,60 @@ theme = "LoveIt"
   # LoveIt theme version
   version = "0.2.X"
 
+[params.list]
+    # special amount of posts in each list page
+    paginate = 5
+    # date format (month and day)
+    dateFormat = "01-02"
+    # amount of RSS pages
+    rss = 10
+
+[params.social]
+twitter = "@acassaigne"
+
+
+[author]
+  name = "Anthony Cassaigne"
+  email = ""
+  link = ""
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[languages.fr]
+  [languages.fr.params.home]
+        # amount of RSS pages
+        rss = 10
+        # Home page profile
+        [languages.fr.params.home.profile]
+          enable = true
+          # Gravatar Email for preferred avatar in home page
+          gravatarEmail = ""
+          # URL of avatar shown in home page
+          #avatarURL = "/images/avatar.png"
+          # title shown in home page (HTML format is supported)
+          title = "Anthony Cassaigne"
+          # subtitle shown in home page
+          subtitle = "Agilité & Craft Code"
+          # whether to use typeit animation for subtitle
+          typeit = true
+          # whether to show social links
+          social = true
+          # disclaimer (HTML format is supported)
+          disclaimer = ""
+        # Home page posts
+        [languages.fr.params.home.posts]
+          enable = true
+          # special amount of posts in each home posts page
+          paginate = 5
+      # Social config in home page
+      [languages.fr.params.social]
+        GitHub = "acassaigne"
+        #Linkedin = "xxxx"
+        Twitter = "@acassaigne"
+
 [menu]
   [[menu.main]]
     identifier = "posts"
@@ -32,14 +86,15 @@ theme = "LoveIt"
     url = "/tags/"
     title = ""
     weight = 2
-  [[menu.main]]
-    identifier = "categories"
-    pre = ""
-    post = ""
-    name = "Categories"
-    url = "/categories/"
-    title = ""
-    weight = 3
+#  [[menu.main]]
+#    identifier = "categories"
+#    pre = ""
+#    post = ""
+#    name = "Categories"
+#    url = "/categories/"
+#    title = ""
+#    weight = 3
+
 
 # Markup related configuration in Hugo
 [markup]
