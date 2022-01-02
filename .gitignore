@@ -11,3 +11,5 @@ cache
 pelican-octopress-theme
 tmp
 *.lock
+public
+*~
