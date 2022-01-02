@@ -1,10 +1,13 @@
-Title: Introduction au pair programming
-Category: Articles
-Date: 2014-08-02
-Modified: 2014-10-03
+---
+title: "Introduction au pair programming"
+author: Anthony Cassaigne
+date: 2014-08-02
+tags: ['pair programming', 'craftcode', 'workflow'] 
+draft: false
+---
 
 
-![Photo pair programming]({filename}/images/photo_pair_programming.jpg) 
+![Photo pair programming](photo_pair_programming.jpg) 
  
 L'activité de pair programming ou programmation en binôme consiste à
 travailler installé côte à côte sur le même poste de travail afin d'achever
