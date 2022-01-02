@@ -1,14 +1,17 @@
-Title: Formation Facilitation Graphique
-Modified: 2015-02-08
-Date: 2015-02-08
-Tags: formation, facilitation graphique
-Category: Articles
-Author: Anthony Cassaigne
+---
+title: "Formation Facilitation Graphique"
+author: Anthony Cassaigne
+date: 2015-02-08
+tags: ['agile', 'facilitation graphique', 'formation'] 
+draft: false
+---
+
+# Formation facilitation graphique
 
 Ma première rencontre avec la facilitation graphique survint lors de
 l'événement Agile Grenoble, en  2012. A cette occasion,  j'ai pu admirer la
-[fresque réalisée par Nicolas Gros](http://www.fgcp.net/wp-
-content/uploads/2014/01/fresqueAgileGrenoble2012.jpg). Je fus réellement
+[fresque réalisée par Nicolas Gros](http://www.fgcp.net/wp-content/uploads/2014/01/fresqueAgileGrenoble2012.jpg). 
+Je fus réellement
 impressionné par cette oeuvre et très interrogatif sur le rôle que pouvait
 avoir un tel support en termes de communication. Puis j'ai quelque peu laissé
 ce domaine de côté, me promettant d'y revenir lorsque l'occasion se
@@ -16,7 +19,7 @@ présenterait. Et c'est en ce début février qu'Ekito a eu l'excellente idée
 d'organiser une formation à la  facilitation graphique avec pour formateur
 [Romain Couturier](http://talondagile.fr/blog/).
 
-![agile]({filename}/images/fresque_facilitation_graph_small.jpg)
+![agile](fresque_facilitation_graph_small.jpg)
 
 Ce fut tout d'abord un plaisir de revoir Romain Couturier. Je  conseille  à
 toute personne intéressée par l'agilité d'écouter ses conférences, toujours
@@ -39,7 +42,7 @@ dont j'appréhende la communication car sur des sujets compliqués, j'ai souvent
 ressenti ce besoin de dessiner les divers éléments en jeu, de voir la façon
 dont ils s'articulent afin d’obtenir une vision globale et ainsi pouvoir échanger.
 
-![agile]({filename}/images/picto_fusee_small.jpg)
+![agile](picto_fusee_small.jpg)
 
 Au cours de la première journée, Romain nous livre les clés de la facilitation
 qui sont l'écoute, le dessin, et les liens (l'architecture). Et ensuite
