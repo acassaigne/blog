@@ -10,3 +10,4 @@ fabfile.py
 cache
 pelican-octopress-theme
 tmp
+*.lock

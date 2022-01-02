@@ -1,15 +1,16 @@
-*******************************************************
-Software Craftsmanship Professionalism Pragmatism Pride
-*******************************************************
+---
+title: "A propos du livre Software Craftsmanship Professionalism Pragmatism Pride"
+author: Anthony Cassaigne
+date: 2014-07-21
+tags: ['craftcode', 'book', 'livre', 'agile'] 
+draft: false
+---
 
-:date: 2014-07-21
-:tags: livre, agile, software craftsmanship
-:category: Articles
-:author: Anthony Cassaigne
 
-.. image:: {filename}/images/sandro_book.png
-    :height: 180px
-    :alt: Couverture du livre Software Craftsmanship Professionalism Pragmatism Pride
+![cover book](sandro_book.png)
+
+
+# Sandro Mancuso
 
 Sandro Mancuso nous livre là un fort bel ouvrage ! Il nous décrit simplement et
 efficacement la conception qu'il a du métier de développeur.
@@ -25,6 +26,9 @@ l'équipe lui explique, au cours d'une revue de code, que la façon dont on
 réalise quelque chose est aussi important que le fait de l'achever ("How it is done as
 important as having it done"). C'est dix ans plus tard qu'il fonda le mouvement
 Software Craftsmanship de Londres (LSCC) ayant cette citation pour maxime.
+
+
+## La qualité du code
 
 C'est au cours de cette étroite collaboration avec le responsable d'équipe
 qu'il s'apperçoit, pour la première fois de sa carrière, qu'il vient de
@@ -54,6 +58,8 @@ avons donc besoin de développeurs professionnels et non pas juste de codeurs
 peu onéreux. C'est ce changement de mentalité qu'il nous faut maintenant opérer
 dans toute entreprise impliquée dans le développement du logiciel. C'est là le
 message envoyé par Sandro.
+
+## Une attention à l'excellence technique
 
 Alors que nos modes de fonctionnement ont changés, car nous comprenons et
 intégrons (plus ou moins correctement) différentes approches permettant
