@@ -1,16 +1,20 @@
-Title: La seconde "indirective"
-Category: Articles
-Date: 2014-10-26
-Modified: 2014-10-26
+---
+title: "La seconde indirective"
+author: Anthony Cassaigne
+date: 2014-10-26
+tags: ['retrospective', 'agile'] 
+draft: false
+---
+
 
 Vous connaissez probablement la
-[directive première de la rétrospective](http://www.fabrice-aimetti.fr/dotclear/public/traductions/pagesretros/retroPrimeDirective-fr.html)
+[directive première de la rétrospective](https://wikiagile.cesi.fr/pages/pagesretros/retroPrimeDirective-fr.html)
 , elle permet d'annoncer l'état d'esprit avec lequel les participants
 doivent venir en rétrospective. Cette seconde directive peut
 constituer une alternative : 
 
 
-![Agile Agilité Software craftsmanship]({filename}/images/zen2.jpg) 
+![Agile Agilité Software craftsmanship](zen2.jpg) 
 
 
 *Nous sommes des êtres sensibles et vulnérables, sujets à un flot
@@ -23,6 +27,6 @@ convient de l'accepter. Et maintenant, que pouvons nous apprendre de
 nos actions passées, réfléchissons, en quoi peuvent-elles nous
 informer et guider notre avenir ?*
 
-La publication originelle revient à Tobias Mayer :[business craftsmanship, The Secondary Indirective](http://businesscraftsmanship.tumblr.com/post/98373087467/the-secondary-indirective).
+La publication originelle revient à Tobias Mayer :business craftsmanship, The Secondary Indirective
 
 Photo de [Louis Leclerc](https://www.flickr.com/photos/melolou/).
