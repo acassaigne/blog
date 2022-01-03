@@ -5,6 +5,10 @@ defaultContentLanguage = "fr"
 languageCode = "en"
 title = "Anthony Cassaigne blog"
 
+enableRobotsTXT = true
+
+enableGitInfo = true
+
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
 
@@ -44,7 +48,7 @@ twitter = "@acassaigne"
           # Gravatar Email for preferred avatar in home page
           gravatarEmail = ""
           # URL of avatar shown in home page
-          #avatarURL = "/images/avatar.png"
+          #avatarURL = "avataaars.png"
           # title shown in home page (HTML format is supported)
           title = "Anthony Cassaigne"
           # subtitle shown in home page

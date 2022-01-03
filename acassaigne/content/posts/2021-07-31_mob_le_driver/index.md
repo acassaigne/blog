@@ -46,7 +46,7 @@ en code. De rendre cette transcription la plus fluide possible.
 ## Strong-style pair programming
 
 Le mob programming utilise un pattern particulier du pair programming
-dénommé strong-style pairing.  Le [strong style pairing](http://llewellynfalco.blogspot.com/2014/06/llewellyns-strong-style-pairing.html)
+dénommé «strong-style pairing».  Le [strong style pairing](http://llewellynfalco.blogspot.com/2014/06/llewellyns-strong-style-pairing.html)
 a été formalisé pour la première fois par [Falco Llewellyn](http://llewellynfalco.blogspot.com/).
 
 Dont la définition est la suivante :
@@ -59,12 +59,12 @@ dont la traduction est :
 
 "Pour qu'une idée passe de votre tête à l'ordinateur, elle DOIT passer par les mains de quelqu'un d'autre."
 
-L'objectif est d'explicité, toute idée que le navigateur pourrait
+L'objectif est d'expliciter, toute idée que le navigateur pourrait
 avoir permettant à l'ensemble des participants d'en comprendre la
 teneur.
 
 En imposant cette contrainte, nous cherchons à minimiser
-l'anti-patterne consistant à avoir un développeur tenant le clavier et
+l'anti-pattern consistant à avoir un développeur tenant le clavier et
 montrant aux autres ce qu'il conviendrait de faire. L'ensemble des
 autres participants devenant alors de simples spectateurs.
 
@@ -76,3 +76,5 @@ par un autre driver, respectant ainsi le motto contre-intuitif:
 
 > Pour qu'une idée passe de votre tête à l'ordinateur, elle DOIT passer par les mains de quelqu'un d'autre.
 > --- Llewellyn Falco
+
+Mettre en oeuvre cette règle permet une meilleure inclusion et participation de tous et toutes au cours d'une séance de mob programming. 
