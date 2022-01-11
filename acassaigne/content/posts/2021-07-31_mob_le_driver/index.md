@@ -3,7 +3,7 @@ title: "Les rôles en mob programming partie 1"
 author: Anthony Cassaigne
 date: 2021-07-31
 tags: ['mob programming', 'driver']
-draft: true
+draft: false
 ---
 
 

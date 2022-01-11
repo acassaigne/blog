@@ -3,7 +3,7 @@ title: "Les rôles en mob programming partie 2"
 author: Anthony Cassaigne
 date: 2021-08-01
 tags: ['mob programming', 'navigateur']
-draft: true
+draft: false
 ---
 
 ## Rôle du navigateur
