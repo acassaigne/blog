@@ -6,8 +6,13 @@ tags: ['mob programming', 'navigateur']
 draft: true
 ---
 
-
 ## Rôle du navigateur
+
+
+![Map Navigateur](pexels-vlada-karpovich-7368308.jpg)
+
+[Photo de Vlada Karpovich](https://www.pexels.com/fr-fr/photo/mains-stylo-voyager-voyageur-7368308/)
+
 
 Dans le premier article nous avons vu le rôle du driver, nous allons
 dans cet article mieux définir le rôle du/des navigateurs.
@@ -19,11 +24,11 @@ responsabilité, mais ce n'est pas la seule.
 
 Un navigateur ou navigatrice doit également s'assurer : 
 
-- que tous et toutes ont une bonne compréhension du contexte, du problème que nous cherchons à solutionner
+- que tous et toutes ont une bonne compréhension du contexte, du problème que nous cherchons à résoudre
 - que la parole circule librement en étant une succession de dialogues
-- que chacun puisse utiliser les tableaux blancs afin de réaliser tout schéma, dessin, annotation s'avérant utile à la compréheson ou résolution du problème...
+- que chacun puisse utiliser les tableaux blancs (réels ou virtuels) afin de réaliser tout schéma, dessin, annotation s'avérant utile à la compréheson ou résolution du problème...
 - qu'il y a un partage des idées et que ces dernières sont prises en compte,
-- que tous et toutes sont pleinement focalisés sur le problème que nous cherchons à résoudre et ainsi nous nous engageons à poursuivre la co-construction de la solution.
+- que tous et toutes sont pleinement focalisés sur le problème que nous cherchons à résoudre et ainsi nous nous engageons à poursuivre la co-construction de la solution
 
 Ainsi décrits, nous pourrions penser qu'il n'y a qu'un unique navigateur (bien
 entendu tournant) au sein du mob à un moment donné. C'est plutôt la
@@ -44,8 +49,10 @@ Lorsque la règle du dialogue est intériorisée ainsi que celle de l'engagement
 à poursuivre la co-construction d'une solution, il est alors envisageable de
 considérer que tout membre de l'équipe est navigateur (hormis le driver). Le
 rôle de navigateur circulant librement entre les membres comme nous le suggère
-la première vidéo présentée par Woody Zuill en 2012 ([A day of Mob
-Programming](https://www.youtube.com/watch?v=p_pvslS4gEI)
+la première vidéo présentée par Woody Zuill en 2012 [A day of Mob Programming](https://www.youtube.com/watch?v=p_pvslS4gEI)
+
+Photo extraite de la vidéo en question :
 
 ![Tous navigateur](mob_one_driver_all_navigators.png)
+
 
