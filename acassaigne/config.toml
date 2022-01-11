@@ -100,6 +100,22 @@ twitter = "@acassaigne"
 #    weight = 3
 
 
+[params.footer]
+    enable = true
+    # Custom content (HTML format is supported)
+    custom = ''
+    # whether to show Hugo and theme info
+    hugo = true
+    # whether to show copyright info
+    copyright = false
+    # whether to show the author
+    author = true
+    # site creation time
+    since = 2019
+    license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA 4.0</a>'
+
+
+
 # Markup related configuration in Hugo
 [markup]
   # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
